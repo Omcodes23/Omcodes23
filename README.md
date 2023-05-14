@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/Ro2MgOxH9iaVG/giphy.gif" width="100%" height="250px">
 <h1 align="center">Hi 👋, I'm Om Vataliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.bing.com/th/id/OGC.f0fef1eb96e50c4820eee35462a62ab2?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fK5kfQExKk731K%2fgiphy.gif&ehk=t%2bOXEOm0mQVWtNiU0oWXspjN1b%2buZL7ZOsyylgB0suU%3d" align="right" width="600px"   height="400px"  >
+<!-- <img src="https://www.bing.com/th/id/OGC.f0fef1eb96e50c4820eee35462a62ab2?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fK5kfQExKk731K%2fgiphy.gif&ehk=t%2bOXEOm0mQVWtNiU0oWXspjN1b%2buZL7ZOsyylgB0suU%3d" align="right" width="600px"   height="400px"  > -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=om23x&label=Profile%20views&color=0e75b6&style=flat" alt="om23x" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=om23x&label=Profile%20views&color=0e75b6&style=flat" alt="om23x" /> </p> -->
 
 - 🌱 I’m currently learning **python,javascricpt**
 
