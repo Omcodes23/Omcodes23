@@ -1,4 +1,7 @@
-# 💫 About Me:
+<div align="center">
+  
+ # 👋 Hello, I'm Om Vataliya!
+### 💫 About Me :
 🔭 I’m currently working on Varfication system at BeFriends.ai<br>👯 I’m looking to collaborate on Open  Source Contribution<br>🤝 I’m looking for help with MERN Stack<br>🌱 I’m currently also learning MERN Stack <br>💬 Ask me about Web Dev , Python ,  IOT , Community<br>⚡ Fun fact I'm the founder of God² Tech Hub
 
 
@@ -23,5 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Omcodes23&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
