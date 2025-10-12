@@ -11,7 +11,7 @@
     <!-- Left: Animated Typing Text -->
     <td width="80%" align="center" valign="middle">
       <img 
-        src="https://readme-typing-svg.herokuapp.com?size=36&duration=3500&color=00BFFF&vCenter=true&width=700&lines=👋+Hello,+I'm+Om+Vataliya!;Full+Stack+Developer;Tech+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" 
+        src="https://readme-typing-svg.herokuapp.com?size=42&duration=3500&color=00BFFF&vCenter=true&width=700&lines=👋+Hello,+I'm+Om+Vataliya!;Full+Stack+Developer;Tech+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" 
         alt="Typing SVG"
       />
     </td>
