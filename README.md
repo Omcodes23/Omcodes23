@@ -42,7 +42,7 @@
 
 ###
 ### 💫 About Me :
-👯 Open Source Enthusiast – eager to collaborate on exciting projects<br>🌱 AI Explorer – constantly learning and pushing the boundaries of AI<br>💬 Ask me about Web Development, AI, IoT, Community, and Homelabbing<br>
+👯 Tech Explorer – Passionate about Discovering and learning across diverse technology domains<br>🌱 AI Explorer – constantly learning and pushing the boundaries of AI<br>💬 Ask me about Web Development, AI, IoT, Community, and Homelabbing<br>
 
 
 ## 
