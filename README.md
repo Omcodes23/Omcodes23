@@ -68,6 +68,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Omcodes23&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+
+<!--### Badges
+[![An image of @omcodes23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omcodes23)](https://holopin.io/@omcodes23) -->
 ---
 
 <!-- <img src="https://raw.githubusercontent.com/Omcodes23/Omcodes23/output/snake.svg" alt="Snake animation" /> -->
