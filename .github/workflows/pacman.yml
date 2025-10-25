@@ -1,8 +1,8 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute at 6 am dialy
-    - cron: "30 0 * * *"
+  schedule: # execute at evry 10 hours
+    - cron: "0 */10 * * *"
 
   workflow_dispatch:
 
