@@ -59,6 +59,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omcodes23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🪄 Digital Badges
+
+<div align="center">
+
+
+
+[![An image of @omcodes23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omcodes23)](https://holopin.io/@omcodes23)
+
+
+
+</div>
+
 <!-- ## 🧑‍💻 Leetcode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/omcodes?theme=dark&font=Sarabun) -->
 
