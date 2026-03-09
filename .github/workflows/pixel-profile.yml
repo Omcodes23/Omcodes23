@@ -25,8 +25,8 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=Omcodes23&screen_effect=false&theme=fuji&dithering=true&hide=avatar
-            dist/github-stats-dark?username=Omcodes23&theme=crt
+            dist/github-stats?username=Omcodes23&screen_effect=false&theme=road_trip&dithering=true
+            dist/github-stats-dark?username=Omcodes23&theme=road_trip
           crt_outputs: |
             dist/github-stats-crt?username=Omcodes23&include_all_commits=true
             
