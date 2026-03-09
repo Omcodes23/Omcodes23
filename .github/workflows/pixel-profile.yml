@@ -28,7 +28,7 @@ jobs:
             dist/github-stats?username=Omcodes23&screen_effect=false&theme=fuji&dithering=true&hide=avatar
             dist/github-stats-dark?username=Omcodes23&theme=crt
           crt_outputs: |
-            dist/github-stats-crt?username=<username>&include_all_commits=true
+            dist/github-stats-crt?username=Omcodes23&include_all_commits=true
             
       - name: push cards to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
