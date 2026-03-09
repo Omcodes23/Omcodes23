@@ -54,10 +54,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Omcodes23&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 <!--![Stats](https://github-readme-stats-fast.vercel.app/api?username=Omcodes23&show_icons=true&theme=radical)<br/><br/>-->
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=omcodes23&screen_effect=true&theme=road_trip&dithering=true)<br/><br/>
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=Omcodes23&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Omcodes23&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omcodes23&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omcodes23/Omcodes23/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omcodes23/Omcodes23/output/github-stats-crt.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Omcodes23&screen_effect=true&theme=road_trip&dithering=true">
+</picture>
 ## 🏆 GitHub Trophies
 
 
